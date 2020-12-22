@@ -3,9 +3,9 @@ Date,Home,Home_Score,Away,Away_Score,Game_ID,Box_ID,isNeutral,Detail
 12/01/2020,Duke,69,Michigan St.,75,4983209,1987234,FALSE,NA
 12/04/2020,Duke,76,Bellarmine,54,4983620,1982971,FALSE,NA
 12/06/2020,Duke,Canceled,Elon,NA,4984406,1987614,FALSE,NA
-12/08/2020,Duke,68,Illinois,83,NA,NA,FALSE,NA
+12/08/2020,Duke,68,Illinois,83,4985680,1987619,FALSE,NA
 12/12/2020 08:30 PM,Duke,Canceled,Charleston So.,NA,NA,NA,FALSE,NA
-12/16/2020 09:00 PM,Notre Dame,NA,Duke,NA,NA,NA,FALSE,NA
+12/16/2020,Notre Dame,65,Duke,75,NA,NA,FALSE,NA
 12/19/2020 08:00 PM,Duke,Canceled,Gardner-Webb,NA,NA,NA,FALSE,NA
 12/29/2020 TBA,Duke,NA,Pittsburgh,NA,NA,NA,FALSE,NA
 01/02/2021 TBA,Florida St.,NA,Duke,NA,NA,NA,FALSE,NA
@@ -13,7 +13,7 @@ Date,Home,Home_Score,Away,Away_Score,Game_ID,Box_ID,isNeutral,Detail
 01/09/2021 TBA,Duke,NA,Wake Forest,NA,NA,NA,FALSE,NA
 01/12/2021 TBA,Virginia Tech,NA,Duke,NA,NA,NA,FALSE,NA
 01/19/2021 TBA,Pittsburgh,NA,Duke,NA,NA,NA,FALSE,NA
-01/23/2021 TBA,Louisville,NA,Duke,NA,NA,NA,FALSE,NA
+01/23/2021 04:00 PM,Louisville,NA,Duke,NA,NA,NA,FALSE,NA
 01/26/2021 TBA,Duke,NA,Georgia Tech,NA,NA,NA,FALSE,NA
 01/30/2021 TBA,Duke,NA,Clemson,NA,NA,NA,FALSE,NA
 02/01/2021 07:00 PM,Miami (FL),NA,Duke,NA,NA,NA,FALSE,NA
